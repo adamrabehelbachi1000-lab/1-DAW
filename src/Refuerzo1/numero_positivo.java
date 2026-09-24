@@ -12,6 +12,5 @@ public class numero_positivo {
         System.out.println("Introduce el segundo numero: ");
         numero2 = inputValue.nextDouble();
 
-        if (numero1 > 0 )
     }
 }
