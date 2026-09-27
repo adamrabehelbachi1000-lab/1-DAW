@@ -5,5 +5,9 @@ public class Ej_36 {
         int numero;
         Scanner inputValue = new Scanner(System.in);
 
+
+        if (){
+
+        }
     }
 }
